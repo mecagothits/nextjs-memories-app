@@ -1,4 +1,4 @@
-Ania's memories - Semantic Search with SingleStore
+Mecas memories - Semantic Search with SingleStore
 
 This code is to support the tutorial created here.
 
